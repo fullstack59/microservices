@@ -1,0 +1,12 @@
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\bin\Debug\net8.0\Play.Common.deps.json
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\bin\Debug\net8.0\Play.Common.dll
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\bin\Debug\net8.0\Play.Common.pdb
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\Play.Common.csproj.AssemblyReference.cache
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\Play.Common.AssemblyInfoInputs.cache
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\Play.Common.AssemblyInfo.cs
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\Play.Common.csproj.CoreCompileInputs.cache
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\Play.Common.dll
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\refint\Play.Common.dll
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\Play.Common.pdb
+E:\2024\PROYECTOS\Play.Common\src\Play.Common\obj\Debug\net8.0\ref\Play.Common.dll
